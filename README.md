@@ -1,4 +1,4 @@
-# co38a4834950b81f65b4187b7
+# co0cc43c19137835bc361427d
 
 Quick start:
 
@@ -19,4 +19,3 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
-# basic-react
